@@ -1,9 +1,9 @@
 import os
 from os import getenv
 
-SESSION_NAME = getenv("SESSION_NAME", "")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
-OWNER_ID = getenv("OWNER_ID", "5513481385")
+SESSION_NAME = getenv("SESSION_NAME", "BQCsaBbQ34jLN_4fybzk16f8h9KK6bKej2TwDuJ3sntzaUhrvbSbhta2XA-FhuIMox5EKCKfAnPlWvCuogcvXzzpQKwPQRv7n36QcDuTPbmOd-EQnWM1Ignh5vTK5e-r7FKyDyHRSg6l5H-gzCvTDfFw6M02hqXgFSLW0l2EOStzwavk74a_RiHpPwFokWJFeEowwWCK1zc9K-g42FIa4DX08CyKFniKRHjX0o6EL7lF8q-7akGAIDksncQwz_joRE-i4RlhgeGsN2vtIHbXNa91JragsIP9wTZo529A9h8HCrN6ILWNtQt-_bxpiXp0XSuz8xC3uuoCVTfJzk7QfM4RAAAAAGCW1LoA")
+BOT_TOKEN = getenv("BOT_TOKEN", "5621197727:AAGUdK7AErXR-j2UC-p_8RIa_euprsSNf2U")
+API_ID = int(getenv("API_ID", "9688162"))
+API_HASH = getenv("API_HASH", "7b2bd6db5aaf2fc6c21d08249189c028")
+OWNER_ID = getenv("OWNER_ID", "1620497594")
 SUPPORT = getenv("GROUP_SUPPORT", "TechQuardSupport")
